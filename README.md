@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsanchit&show_icons=true&locale=en&layout=compact" alt="0xSanchit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xSanchit&show_icons=true&locale=en" alt="0xSanchit" /></p>
 <!--
 **0xsanchit/0xsanchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
