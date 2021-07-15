@@ -13,6 +13,10 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xSanchit&label=Profile%20views&color=129e00&style=plastic" alt="0xSanchit" /> </p>
 
+
+I am a tech enthusiast and am interested and have  worked as Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 and a beginner level Designer 🎨 depending on what the project required. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -78,6 +82,10 @@ Python (Machine Learning)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsanchit&show_icons=true&locale=en&layout=compact" alt="0xSanchit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xSanchit&show_icons=true&locale=en" alt="0xSanchit" /></p>
+
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=0xsanchit&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 <!--
 **0xsanchit/0xsanchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
