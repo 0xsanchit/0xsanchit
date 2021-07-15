@@ -19,6 +19,8 @@ There are 10 types of people in the world. Those who get Binary and those who do
 [![Linkedin Badge](https://img.shields.io/badge/-Sanchit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/sanchit-gupta-361581189/) [![Gmail Badge](https://img.shields.io/badge/-sanchitgupta456@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchitgupta456@gmail.com)](mailto:sanchitgupta456@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20IITian%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCBStHvqSDEF751f0CWd3-Pg)](https://www.youtube.com/channel/UCBStHvqSDEF751f0CWd3-Pg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xSanchit&label=Profile%20views&color=13c8f5&style=plastic" alt="0xSanchit" /> </p>
 
+</br>
+</br>
 
 I am a tech enthusiast and am interested and have  worked as Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 and a beginner level Designer 🎨 depending on what the project required. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
