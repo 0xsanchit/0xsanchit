@@ -1,4 +1,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+There are 10 types of people in the world. Those who get Binary and those who don't..
+<!-- 
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -10,8 +15,9 @@
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xSanchit&label=Profile%20views&color=129e00&style=plastic" alt="0xSanchit" /> </p>
+</a> -->
+[![Linkedin Badge](https://img.shields.io/badge/-Sanchit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/sanchit-gupta-361581189/) [![Gmail Badge](https://img.shields.io/badge/-sanchitgupta456@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanchitgupta456@gmail.com)](mailto:sanchitgupta456@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-The%20IITian%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCBStHvqSDEF751f0CWd3-Pg)](https://www.youtube.com/channel/UCBStHvqSDEF751f0CWd3-Pg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xSanchit&label=Profile%20views&color=13c8f5&style=plastic" alt="0xSanchit" /> </p>
 
 
 I am a tech enthusiast and am interested and have  worked as Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 and a beginner level Designer 🎨 depending on what the project required. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
