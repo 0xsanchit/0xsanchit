@@ -87,6 +87,8 @@ NodeJS (Backend Dev)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 Python (Machine Learning)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  8 hrs               ██░░░░░░░░░     12.90% </br>
 </br>
 
+<h2>Some Stastics </h2>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsanchit&show_icons=true&locale=en&layout=compact" alt="0xSanchit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xSanchit&show_icons=true&locale=en" alt="0xSanchit" /></p>
