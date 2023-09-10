@@ -24,7 +24,7 @@ I am a tech enthusiast and am interested and have  worked as Full Stack Web Deve
 <a href="https://0xsanchit.github.io/">Visit my portfolio here</a>
 
 <h3>Projects I have worked on</h3>
-I'm currently working on 🔭 building a Mobile App Software Startup and working up on polishing my skills 🌱 in Machine Learning and Competitive Programming.
+I'm currently working in Graviton as a Software Developer and working up on polishing my skills.
 
 
 
